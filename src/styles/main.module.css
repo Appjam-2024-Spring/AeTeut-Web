@@ -1,0 +1,55 @@
+.container {
+  text-align: center;
+}
+
+.container-title {
+  margin-top: 23vmin;
+}
+
+.title {
+  font-size: 3.3rem;
+  font-weight: 800;
+}
+
+.content {
+  margin-top: -3vmin;
+  font-size: 0.9rem;
+  color: #525264;
+  letter-spacing: 0.1vmin;
+}
+
+.line {
+  width: 90vmin;
+  color: #e4e4e9;
+  margin-top: 10vmin;
+}
+
+.container-content {
+  text-align: left;
+  margin-left: 10vmin;
+  margin-top: 10vmin;
+  font-size: 0.9rem;
+  line-height: 8vmin;
+}
+
+.name {
+  display: inline-table;
+  width: 20vmin;
+  color: #525264;
+}
+
+.value {
+  font-weight: 600;
+}
+
+.container-map {
+  margin-left: 10vmin;
+  margin-top: 7vmin;
+}
+
+.map {
+  width: 80vmin;
+  height: 50vmin;
+  border-radius: 8px;
+  border: 0;
+}

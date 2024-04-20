@@ -1,0 +1,19 @@
+.container-button {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  bottom: 10vmin;
+  text-align: center;
+}
+
+.button {
+  width: 90vmin;
+  height: 13vmin;
+  border-radius: 8px;
+  border: 0;
+  background-color: #0f0f13;
+  color: #f0f0f9;
+}
+
+@media (max-width: 1000px), (max-height: 800px) {
+}
