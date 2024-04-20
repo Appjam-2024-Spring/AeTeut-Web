@@ -53,3 +53,9 @@
   border-radius: 8px;
   border: 0;
 }
+
+@media (max-height: 670px) {
+  .map {
+    height: 30vmin;
+  }
+}
