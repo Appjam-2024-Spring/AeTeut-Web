@@ -10,7 +10,7 @@ declare global {
 export default function Main() {
   useEffect(() => {
     const container = document.getElementById("map");
-    const mainPosition = new window.kakao.maps.LatLng(33.453502, 126.569894);
+    const mainPosition = new window.kakao.maps.LatLng(37.5251315, 127.1072598);
     const options = {
       center: mainPosition, // 지도의 중심 좌표
       level: 3, // 지도의 레벨(확대, 축소 정도)
